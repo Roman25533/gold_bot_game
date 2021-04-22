@@ -1,4 +1,4 @@
 print("first point")
-print("second point")
-print("ather point")
+print("seconddsafaefddsafdsadsasda point")
+print("athedfdffdsfdsr point")
 print("Oy fack")
